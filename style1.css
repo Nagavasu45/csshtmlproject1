@@ -1,0 +1,227 @@
+.abb1{
+    text-decoration: none;
+}
+
+.eight1{
+    
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    color: rgba(57, 131, 241, 0.932);
+}
+
+.add3{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(43, 43, 241);
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    padding-top: 4px;
+    margin-top: 20px;
+    margin-left: 330px;
+}
+.ll{
+    text-decoration: none;
+}
+.sym{
+    margin-top:15px ;
+   
+} 
+.add2{
+    height: 20px;
+    width: 460px;
+   
+  
+   /* padding-left: 10px; */
+   background-color: whitesmoke;
+   margin-left: 20px;
+   font-size: 12px;
+  padding-left: 5px;
+  padding-top: 4px;
+}
+.add1{
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 300px;
+}
+.addtask{
+    width: 500px;
+    height: 200px;
+    /* border: 1px solid red; */
+    border-radius: 20px;
+    
+    background-color:white;
+    position: absolute;
+    left: 30%;
+    top: 150px;
+    font-size: 20px;
+   
+    
+    
+}
+.set1{
+    filter:blur(3px) ;
+   
+}
+
+.f1{
+    display: flex;
+}
+
+.nine{
+    font-size: 20px;
+    color: grey;
+    text-decoration:line-through;
+    margin-top:18px ;
+}
+.eleven{
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+.ten{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+input.ten{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.eight{
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 30px;
+    color: rgba(57, 131, 241, 0.932);
+}
+.main1{
+    width: auto;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 70px;
+    
+    margin-top: 100px;
+    padding-bottom: 300px;
+   
+}
+
+.seven{
+    height: 370px;
+    width: 370px;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+.dot
+{
+    height: 20px;
+    width: 35px;
+    background-color: rgb(36, 113, 230);
+    border-radius: 50%; 
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 950px;
+}
+
+.five{
+   
+
+    
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+    /* margin-left: 1000px; */
+    
+    
+    
+}
+.six{
+    display: flex;
+}
+.four{
+    background-color: lightgrey;
+    height:auto;
+    width: auto;
+    
+    
+}
+
+
+.one{
+    display: flex;
+}
+.two{
+font-size:40px;
+font-weight: bolder;
+padding-left: 150px;
+
+
+
+}
+.three{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 5px;
+
+    color: rgb(16, 136, 211);
+}
+.img1{
+    height: 20px;
+    width: 20px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 430px;
+}
+.add3{
+    /* margin-left: 300px;
+    margin-top: 20px;
+   
+    padding-top: 5px; */
+    /* display: flex; */
+}
+.add5{
+    
+  
+    font-size: 20px;
+    
+} 
+.dot1{
+    height: 20px;
+    width: 20px;
+    margin-left: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color:rgb(16, 136, 211); 
+    font-size: 30px;
+}
+.five1{
+    font-size:20px ;
+}
+sp1{
+   margin-left: 500px;
+}
+.four1{
+   
+    height:600px;
+    width: 100%;
+    background-color: lightgrey;
+    
+    
+    
+}
+.seven1{
+    height: 270px;
+    width: 470px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    margin-left: 420px;
+}
